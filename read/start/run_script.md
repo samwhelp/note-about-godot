@@ -1,11 +1,11 @@
 ---
-title: 執行 gdscript
+title: 如何下指令，執行 gdscript
 nav_order: 1010
 has_children: false
 parent: 入門
 ---
 
-# 執行 gdscript
+# 如何下指令，執行 gdscript
 
 
 在[安裝「godot」](https://samwhelp.github.io/note-about-godot/read/install/arch.html)完成後，
