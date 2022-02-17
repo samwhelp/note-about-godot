@@ -1,4 +1,4 @@
-#!/usr/bin/env -S godot -s
+#!/usr/bin/env -S godot --no-window -s
 extends SceneTree
 
 func _init():
