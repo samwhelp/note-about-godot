@@ -76,6 +76,12 @@ pacman -Ql godot -q
 
 > 可以參考「Arch Package / [godot](https://archlinux.org/packages/community/x86_64/godot/) / [PKGBUILD](https://github.com/archlinux/svntogit-community/blob/packages/godot/trunk/PKGBUILD#L57)」。
 
+執行下面指令，閱讀 Mappage
+
+``` sh
+man godot
+```
+
 執行下面指令，顯示help文件
 
 ``` sh
@@ -93,6 +99,8 @@ godot --version
 ```
 3.4.2.stable.arch_linux
 ```
+
+關於「godot」用法，可以參考「Editor manual / Command line tutorial / [Running a script](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html#running-a-script)」。
 
 ## Link
 
