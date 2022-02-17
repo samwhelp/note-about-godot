@@ -80,5 +80,5 @@ file /tmp/demo_game
 
 ## Link
 
-* Editor manual / Command line tutorial / [Exporting](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html#exporting)
-* Export / Exporting projects / [Export templates](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html#export-templates)
+* Editor manual / Command line tutorial / [Exporting](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html#exporting) ([中文](https://docs.godotengine.org/zh_TW/stable/tutorials/editor/command_line_tutorial.html#exporting))
+* Export / Exporting projects / [Export templates](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html#export-templates) ([中文](https://docs.godotengine.org/zh_TW/stable/tutorials/export/exporting_projects.html#export-templates))
