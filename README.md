@@ -11,7 +11,15 @@
 
 ## 主題
 
+* [安裝](#安裝)
 * [入門](#入門)
+
+
+### 安裝
+
+| 平台 |
+| --- |
+| [Arch Linux](https://samwhelp.github.io/note-about-godot/read/install/arch.html) |
 
 
 ### 入門
