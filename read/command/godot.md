@@ -16,4 +16,4 @@ parent: 指令
 
 ## Link
 
-Editor manual / [Command line tutorial](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html)
+Editor manual / [Command line tutorial](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html) ([中文](https://docs.godotengine.org/zh_TW/stable/tutorials/editor/command_line_tutorial.html))
