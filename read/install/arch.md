@@ -76,13 +76,13 @@ pacman -Ql godot -q
 
 > 可以參考「Arch Package / [godot](https://archlinux.org/packages/community/x86_64/godot/) / [PKGBUILD](https://github.com/archlinux/svntogit-community/blob/packages/godot/trunk/PKGBUILD#L57)」。
 
-執行下面指令，閱讀 Mappage
+執行下面指令，閱讀 Mappage，顯示的內容請參考[另一頁面紀錄](https://samwhelp.github.io/note-about-godot/read/command/godot/man)。
 
 ``` sh
 man godot
 ```
 
-執行下面指令，顯示help文件
+執行下面指令，顯示help文件，顯示的內容請參考[另一頁面紀錄](https://samwhelp.github.io/note-about-godot/read/command/godot/help)。
 
 ``` sh
 godot -h
