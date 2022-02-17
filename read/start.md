@@ -8,4 +8,4 @@ has_children: true
 
 | 議題 |
 | --- |
-| [執行 gdscript]()|
+| [執行 gdscript](https://samwhelp.github.io/note-about-godot/read/start/run_script.html) |
