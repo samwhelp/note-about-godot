@@ -6,7 +6,7 @@
 run [export.sh](export.sh)
 
 ``` sh
-./create.sh
+./export.sh
 ```
 
 

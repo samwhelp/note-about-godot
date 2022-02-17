@@ -8,6 +8,12 @@ parent: 入門
 
 # 如何下指令，執行 export
 
+
+## 範例
+
+* [simple](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/simple)
+
+
 ## 前置作業
 
 在匯出前，需要先[下載安裝「Export templates」](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html#export-templates)。
