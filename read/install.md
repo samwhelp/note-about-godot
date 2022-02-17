@@ -9,4 +9,4 @@ has_children: true
 
 | 平台 |
 | --- |
-| [Arch](install/arch) |
+| 如何在「[Arch Linux](install/arch)」安裝「godot」|

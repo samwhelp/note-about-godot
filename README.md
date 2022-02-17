@@ -17,11 +17,11 @@
 
 ### 安裝
 
-[Godot Engine 相關下載點](https://samwhelp.github.io/note-about-godot/read/install/download.html)
+* [Godot Engine 相關下載點](https://samwhelp.github.io/note-about-godot/read/install/download.html)
 
 | 平台 |
 | --- |
-| [Arch Linux](https://samwhelp.github.io/note-about-godot/read/install/arch.html) |
+| 如何在「[Arch Linux](https://samwhelp.github.io/note-about-godot/read/install/arch.html)」安裝「godot」|
 
 
 ### 入門
@@ -29,4 +29,4 @@
 | 議題 |
 | --- |
 | [入門](https://samwhelp.github.io/note-about-godot/read/start.html) |
-| [執行 gdscript](https://samwhelp.github.io/note-about-godot/read/start/run_script.html) |
+| [如何下指令，執行 gdscript](https://samwhelp.github.io/note-about-godot/read/start/run_script.html) |
