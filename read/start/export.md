@@ -13,6 +13,7 @@ parent: 入門
 
 * [simple](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/simple)
 * [Your first 2D game](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/dodge)
+* [Your first 3D game](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/dodge-3d)
 
 
 ## 前置作業
