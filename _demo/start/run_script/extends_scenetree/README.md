@@ -2,8 +2,24 @@
 
 ## Test
 
+## Test
+
+run
+
 ``` sh
 ./demo.gd
+```
+
+run
+
+``` sh
+godot -s demo.gd
+```
+
+run
+
+``` sh
+godot --no-window -s demo.gd
 ```
 
 ## Link
