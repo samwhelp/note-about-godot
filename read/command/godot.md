@@ -12,3 +12,8 @@ parent: 指令
 | --- |
 | [man godot](godot/man) |
 | [godot -h](godot/help) |
+
+
+## Link
+
+Editor manual / [Command line tutorial](https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html)

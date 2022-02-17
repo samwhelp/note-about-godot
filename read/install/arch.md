@@ -67,7 +67,7 @@ pacman -Ql godot -q
 
 | 檔案 |
 | --- |
-| /usr/bin/godot |
+| [/usr/bin/godot](https://samwhelp.github.io/note-about-godot/read/command/godot.html) |
 | [/usr/share/applications/godot.desktop](https://github.com/godotengine/godot/blob/master/misc/dist/linux/org.godotengine.Godot.desktop) |
 | [/usr/share/licenses/godot/LICENSE](https://github.com/godotengine/godot/blob/master/LICENSE.txt) |
 | [/usr/share/man/man6/godot.6.gz](https://github.com/godotengine/godot/blob/master/misc/dist/linux/godot.6) |
