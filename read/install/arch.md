@@ -46,7 +46,7 @@ pamac install godot
 
 若是要編譯，可以參考「Arch Package / [godot](https://archlinux.org/packages/community/x86_64/godot/) / [PKGBUILD](https://github.com/archlinux/svntogit-community/blob/packages/godot/trunk/PKGBUILD#L26)」。
 
-編譯前的預備工作，執行下面指令，安裝「Package group: [base-devel](https://archlinux.org/groups/x86_64/base-devel/)」
+編譯前的[預備工作](https://wiki.archlinux.org/title/Creating_packages#Prerequisite_software)，執行下面指令，安裝「Package group: [base-devel](https://archlinux.org/groups/x86_64/base-devel/)」
 
 ``` sh
 sudo pacman -S base-devel
