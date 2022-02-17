@@ -12,6 +12,7 @@ parent: 入門
 ## 範例
 
 * [simple](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/simple)
+* [Your first 2D game](https://github.com/samwhelp/note-about-godot/tree/gh-pages/_demo/start/export_project/dodge)
 
 
 ## 前置作業
@@ -42,13 +43,25 @@ wget -c 'https://github.com/godotengine/godot/releases/download/3.4.2-stable/God
 安裝後的路徑，
 舉例：我在Arch安裝後，路徑是在「~/.local/share/godot/templates/3.4.2.stable」。
 
-## 指令範例
+## 匯出指令範例
 
 執行下面指令匯出
 
 ``` sh
 godot --export 'Linux/X11' '/tmp/demo_game'
 ```
+
+## export_presets.cfg
+
+> 若是專案沒有「[export_presets.cfg](https://github.com/samwhelp/note-about-godot/blob/gh-pages/_demo/start/export_project/simple/demo/export_presets.cfg)」，則會顯示下面指令。
+
+```
+ERROR: This project doesn't have an `export_presets.cfg` file at its root.
+Create an export preset from the "Project > Export" dialog and try again.
+   at: _fs_changed (editor/editor_node.cpp:801)
+```
+
+## 匯出後續測試
 
 執行下面指令
 
